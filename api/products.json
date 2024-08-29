@@ -82,8 +82,8 @@
     },
     {
       "id": 2,
-      "name": "Wooden chair",
-      "price": 187,
+      "name": "Wooden drawers",
+      "price": 120.00,
       "image": "https://george-fx.github.io/unimor_api/assets/products/02.jpg",
       "images": [
         "https://george-fx.github.io/unimor_api/assets/products/02.jpg",
