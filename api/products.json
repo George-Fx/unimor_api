@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Pendant lamp",
+      "name": "Wooden table",
       "price": 42.9,
       "image": "https://george-fx.github.io/unimor_api/assets/products/01.jpg",
       "images": [
