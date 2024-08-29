@@ -2,13 +2,8 @@
     "banners": [
         {
             "id": 1,
-            "image": "https://george-fx.github.io/funiq_api/assets/banners/01.jpg",
+            "image": "https://george-fx.github.io/unimor_api/assets/banners/01.jpg",
             "promotion": "Dining chairs with 10% off"
-        },
-        {
-            "id": 2,
-            "image": "https://george-fx.github.io/funiq_api/assets/banners/02.jpg",
-            "promotion": "Soft Wooden armchairs 15% off"
         }
     ]
 }
