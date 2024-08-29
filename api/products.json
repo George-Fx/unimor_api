@@ -1,0 +1,956 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Pendant lamp",
+      "price": 42.9,
+      "image": "https://george-fx.github.io/funiq_api/assets/products/01.jpg",
+      "images": [
+        "https://george-fx.github.io/funiq_api/assets/products/01.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/01.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/01.jpg"
+      ],
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "colors": [
+        {
+          "id": 1,
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "id": 2,
+          "name": "pale cerulean",
+          "code": "#9DC5DB"
+        },
+        {
+          "id": 3,
+          "name": "opal",
+          "code": "#96B8BA"
+        },
+        {
+          "id": 4,
+          "name": "camel",
+          "code": "#B09765"
+        },
+        {
+          "id": 5,
+          "name": "squid ink",
+          "code": "#142535"
+        }
+      ],
+      "tags": [
+        "lightning"
+      ],
+      "rating": "5,0",
+      "isBestseller": true,
+      "isFeatured": false,
+      "isSale": false,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Adrianna Mercado",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 2,
+          "name": "Dante Valdez",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 3,
+          "name": "Troy Ingram",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 4,
+          "name": "Joshua Bean",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Wooden chair",
+      "price": 187,
+      "image": "https://george-fx.github.io/funiq_api/assets/products/02.jpg",
+      "images": [
+        "https://george-fx.github.io/funiq_api/assets/products/02.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/02.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/02.jpg"
+      ],
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "colors": [
+        {
+          "id": 1,
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "id": 2,
+          "name": "pale cerulean",
+          "code": "#9DC5DB"
+        },
+        {
+          "id": 3,
+          "name": "opal",
+          "code": "#96B8BA"
+        },
+        {
+          "id": 4,
+          "name": "camel",
+          "code": "#B09765"
+        },
+        {
+          "id": 5,
+          "name": "squid ink",
+          "code": "#142535"
+        }
+      ],
+      "tags": [
+        "chairs & tables"
+      ],
+      "rating": "5,0",
+      "isBestseller": true,
+      "isFeatured": false,
+      "isSale": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Adrianna Mercado",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 2,
+          "name": "Dante Valdez",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 3,
+          "name": "Troy Ingram",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 4,
+          "name": "Joshua Bean",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Stool dark grey",
+      "price": 254.6,
+      "image": "https://george-fx.github.io/funiq_api/assets/products/03.jpg",
+      "images": [
+        "https://george-fx.github.io/funiq_api/assets/products/03.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/03.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/03.jpg"
+      ],
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "colors": [
+        {
+          "id": 1,
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "id": 2,
+          "name": "pale cerulean",
+          "code": "#9DC5DB"
+        },
+        {
+          "id": 3,
+          "name": "opal",
+          "code": "#96B8BA"
+        },
+        {
+          "id": 4,
+          "name": "camel",
+          "code": "#B09765"
+        },
+        {
+          "id": 5,
+          "name": "squid ink",
+          "code": "#142535"
+        }
+      ],
+      "tags": [
+        "chairs & tables"
+      ],
+      "rating": "5,0",
+      "isBestseller": true,
+      "isFeatured": false,
+      "isSale": false,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Adrianna Mercado",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 2,
+          "name": "Dante Valdez",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 3,
+          "name": "Troy Ingram",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 4,
+          "name": "Joshua Bean",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Table & 3 Chairs",
+      "price": 842.9,
+      "image": "https://george-fx.github.io/funiq_api/assets/products/04.jpg",
+      "images": [
+        "https://george-fx.github.io/funiq_api/assets/products/04.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/04.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/04.jpg"
+      ],
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "colors": [
+        {
+          "id": 1,
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "id": 2,
+          "name": "pale cerulean",
+          "code": "#9DC5DB"
+        },
+        {
+          "id": 3,
+          "name": "opal",
+          "code": "#96B8BA"
+        },
+        {
+          "id": 4,
+          "name": "camel",
+          "code": "#B09765"
+        },
+        {
+          "id": 5,
+          "name": "squid ink",
+          "code": "#142535"
+        }
+      ],
+      "tags": [
+        "table & chairs"
+      ],
+      "rating": "5,0",
+      "isBestseller": true,
+      "isFeatured": false,
+      "isSale": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Adrianna Mercado",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 2,
+          "name": "Dante Valdez",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 3,
+          "name": "Troy Ingram",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 4,
+          "name": "Joshua Bean",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Chair white",
+      "price": 164.7,
+      "image": "https://george-fx.github.io/funiq_api/assets/products/05.jpg",
+      "images": [
+        "https://george-fx.github.io/funiq_api/assets/products/05.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/05.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/05.jpg"
+      ],
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "colors": [
+        {
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "name": "pale cerulean",
+          "code": "#9DC5DB"
+        },
+        {
+          "name": "opal",
+          "code": "#96B8BA"
+        },
+        {
+          "name": "camel",
+          "code": "#B09765"
+        },
+        {
+          "name": "squid ink",
+          "code": "#142535"
+        }
+      ],
+      "tags": [
+        "chairs & tables"
+      ],
+      "rating": "5,0",
+      "isBestseller": true,
+      "isFeatured": false,
+      "isSale": false,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Adrianna Mercado",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 2,
+          "name": "Dante Valdez",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 3,
+          "name": "Troy Ingram",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 4,
+          "name": "Joshua Bean",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Armchair grey",
+      "price": 206.73,
+      "oldPrice": 229.7,
+      "image": "https://george-fx.github.io/funiq_api/assets/products/06.jpg",
+      "images": [
+        "https://george-fx.github.io/funiq_api/assets/products/06.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/06.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/06.jpg"
+      ],
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "colors": [
+        {
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "name": "pale cerulean",
+          "code": "#9DC5DB"
+        },
+        {
+          "name": "opal",
+          "code": "#96B8BA"
+        },
+        {
+          "name": "camel",
+          "code": "#B09765"
+        },
+        {
+          "name": "squid ink",
+          "code": "#142535"
+        }
+      ],
+      "tags": [
+        "chairs & tables"
+      ],
+      "rating": "5,0",
+      "isBestseller": true,
+      "isFeatured": false,
+      "isSale": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Adrianna Mercado",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 2,
+          "name": "Dante Valdez",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 3,
+          "name": "Troy Ingram",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 4,
+          "name": "Joshua Bean",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Chair yellow",
+      "price": 156.3,
+      "image": "https://george-fx.github.io/funiq_api/assets/products/07.jpg",
+      "images": [
+        "https://george-fx.github.io/funiq_api/assets/products/07.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/07.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/07.jpg"
+      ],
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "colors": [
+        {
+          "id": 1,
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "id": 2,
+          "name": "pale cerulean",
+          "code": "#9DC5DB"
+        },
+        {
+          "id": 3,
+          "name": "opal",
+          "code": "#96B8BA"
+        },
+        {
+          "id": 4,
+          "name": "camel",
+          "code": "#B09765"
+        },
+        {
+          "id": 5,
+          "name": "squid ink",
+          "code": "#142535"
+        }
+      ],
+      "tags": [
+        "chairs & tables"
+      ],
+      "rating": "5,0",
+      "isBestseller": false,
+      "isFeatured": true,
+      "isSale": false,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Adrianna Mercado",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 2,
+          "name": "Dante Valdez",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 3,
+          "name": "Troy Ingram",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 4,
+          "name": "Joshua Bean",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Armchair blue",
+      "price": 229.7,
+      "image": "https://george-fx.github.io/funiq_api/assets/products/08.jpg",
+      "images": [
+        "https://george-fx.github.io/funiq_api/assets/products/08.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/08.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/08.jpg"
+      ],
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "colors": [
+        {
+          "id": 1,
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "id": 2,
+          "name": "pale cerulean",
+          "code": "#9DC5DB"
+        },
+        {
+          "id": 3,
+          "name": "opal",
+          "code": "#96B8BA"
+        },
+        {
+          "id": 4,
+          "name": "camel",
+          "code": "#B09765"
+        },
+        {
+          "id": 5,
+          "name": "squid ink",
+          "code": "#142535"
+        }
+      ],
+      "tags": [
+        "chairs & tables"
+      ],
+      "rating": "5,0",
+      "isBestseller": false,
+      "isFeatured": true,
+      "isSale": false,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Adrianna Mercado",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 2,
+          "name": "Dante Valdez",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 3,
+          "name": "Troy Ingram",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 4,
+          "name": "Joshua Bean",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Chair",
+      "price": 206.73,
+      "oldPrice": 229.7,
+      "image": "https://george-fx.github.io/funiq_api/assets/products/09.jpg",
+      "images": [
+        "https://george-fx.github.io/funiq_api/assets/products/09.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/09.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/09.jpg"
+      ],
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "colors": [
+        {
+          "id": 1,
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "id": 2,
+          "name": "pale cerulean",
+          "code": "#9DC5DB"
+        },
+        {
+          "id": 3,
+          "name": "opal",
+          "code": "#96B8BA"
+        },
+        {
+          "id": 4,
+          "name": "camel",
+          "code": "#B09765"
+        },
+        {
+          "id": 5,
+          "name": "squid ink",
+          "code": "#142535"
+        }
+      ],
+      "tags": [
+        "chairs & tables"
+      ],
+      "rating": "5,0",
+      "isBestseller": false,
+      "isFeatured": true,
+      "isSale": true,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Adrianna Mercado",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 2,
+          "name": "Dante Valdez",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 3,
+          "name": "Troy Ingram",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 4,
+          "name": "Joshua Bean",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Armchair gray",
+      "price": 229.7,
+      "image": "https://george-fx.github.io/funiq_api/assets/products/10.jpg",
+      "images": [
+        "https://george-fx.github.io/funiq_api/assets/products/10.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/10.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/10.jpg"
+      ],
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "colors": [
+        {
+          "id": 1,
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "id": 2,
+          "name": "pale cerulean",
+          "code": "#9DC5DB"
+        },
+        {
+          "id": 3,
+          "name": "opal",
+          "code": "#96B8BA"
+        },
+        {
+          "id": 4,
+          "name": "camel",
+          "code": "#B09765"
+        },
+        {
+          "id": 5,
+          "name": "squid ink",
+          "code": "#142535"
+        }
+      ],
+      "tags": [
+        "chairs & tables"
+      ],
+      "rating": "5,0",
+      "isBestseller": false,
+      "isFeatured": true,
+      "isSale": false,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Adrianna Mercado",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 2,
+          "name": "Dante Valdez",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 3,
+          "name": "Troy Ingram",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 4,
+          "name": "Joshua Bean",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Wooden armchair grey",
+      "price": 377.0,
+      "image": "https://george-fx.github.io/funiq_api/assets/products/11.jpg",
+      "images": [
+        "https://george-fx.github.io/funiq_api/assets/products/11.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/11.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/11.jpg"
+      ],
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "tags": [
+        "chairs & tables"
+      ],
+      "colors": [
+        {
+          "id": 1,
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "id": 2,
+          "name": "pale cerulean",
+          "code": "#9DC5DB"
+        },
+        {
+          "id": 3,
+          "name": "opal",
+          "code": "#96B8BA"
+        },
+        {
+          "id": 4,
+          "name": "camel",
+          "code": "#B09765"
+        },
+        {
+          "id": 5,
+          "name": "squid ink",
+          "code": "#142535"
+        }
+      ],
+      "rating": "5,0",
+      "isBestseller": false,
+      "isFeatured": true,
+      "isSale": false,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Adrianna Mercado",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 2,
+          "name": "Dante Valdez",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 3,
+          "name": "Troy Ingram",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 4,
+          "name": "Joshua Bean",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Soft armchair Black",
+      "price": 302.4,
+      "image": "https://george-fx.github.io/funiq_api/assets/products/12.jpg",
+      "images": [
+        "https://george-fx.github.io/funiq_api/assets/products/12.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/12.jpg",
+        "https://george-fx.github.io/funiq_api/assets/products/12.jpg"
+      ],
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "colors": [
+        {
+          "id": 1,
+          "name": "champagne",
+          "code": "#F8E7CD"
+        },
+        {
+          "id": 2,
+          "name": "pale cerulean",
+          "code": "#9DC5DB"
+        },
+        {
+          "id": 3,
+          "name": "opal",
+          "code": "#96B8BA"
+        },
+        {
+          "id": 4,
+          "name": "camel",
+          "code": "#B09765"
+        },
+        {
+          "id": 5,
+          "name": "squid ink",
+          "code": "#142535"
+        }
+      ],
+      "tags": [
+        "chairs & tables"
+      ],
+      "rating": "5,0",
+      "isBestseller": false,
+      "isFeatured": true,
+      "isSale": false,
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Adrianna Mercado",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/01.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 2,
+          "name": "Dante Valdez",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/02.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 3,
+          "name": "Troy Ingram",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/03.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 4,
+          "name": "Joshua Bean",
+          "image": "https://george-fx.github.io/funiq_api/assets/reviews/04.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        }
+      ]
+    }
+  ]
+}

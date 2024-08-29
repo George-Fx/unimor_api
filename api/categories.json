@@ -1,0 +1,34 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "lightning",
+            "image": "https://george-fx.github.io/funiq_api/assets/categories/01.jpg"
+        },
+        {
+            "id": 2,
+            "name": "bedding",
+            "image": "https://george-fx.github.io/funiq_api/assets/categories/02.jpg"
+        },
+        {
+            "id": 3,
+            "name": "chairs & tables",
+            "image": "https://george-fx.github.io/funiq_api/assets/categories/03.jpg"
+        },
+        {
+            "id": 4,
+            "name": "office",
+            "image": "https://george-fx.github.io/funiq_api/assets/categories/04.jpg"
+        },
+        {
+            "id": 5,
+            "name": "decor",
+            "image": "https://george-fx.github.io/funiq_api/assets/categories/05.jpg"
+        },
+        {
+            "id": 6,
+            "name": "garden",
+            "image": "https://george-fx.github.io/funiq_api/assets/categories/06.jpg"
+        }
+    ]
+}

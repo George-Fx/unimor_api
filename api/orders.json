@@ -1,0 +1,70 @@
+{
+    "orders": [
+        {
+            "id": 456345,
+            "date": "Feb 02, 2024 at 8:32 PM",
+            "status": "shipping",
+            "total": 129.98,
+            "products": [
+                {
+                    "id": 1,
+                    "name": "Dining chair",
+                    "color": "red",
+                    "quantity": 1,
+                    "price": 214.00
+                },
+                {
+                    "id": 2,
+                    "name": "Garden armchair",
+                    "color": "white",
+                    "quantity": 1,
+                    "price": 312.00
+                }
+            ]
+        },
+        {
+            "id": 456346,
+            "date": "Feb 07, 2024 at 8:32 PM",
+            "status": "delivered",
+            "total": 129.98,
+            "products": [
+                {
+                    "id": 1,
+                    "name": "Dining chair",
+                    "color": "red",
+                    "quantity": 1,
+                    "price": 214.00
+                },
+                {
+                    "id": 2,
+                    "name": "Garden armchair",
+                    "color": "white",
+                    "quantity": 1,
+                    "price": 312.00
+                }
+            ]
+        },
+        {
+            "id": 456347,
+            "date": "Feb 07, 2024 at 8:32 PM",
+            "status": "canceled",
+            "total": 129.98,
+            "products": [
+                {
+                    "id": 1,
+                    "name": "Dining chair",
+                    "color": "red",
+                    "quantity": 1,
+                    "price": 214.00
+                },
+                {
+                    "id": 2,
+                    "name": "Garden armchair",
+                    "color": "white",
+                    "quantity": 1,
+                    "price": 312.00
+                }
+            ]
+        }
+    ]
+}

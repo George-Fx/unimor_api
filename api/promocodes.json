@@ -1,0 +1,22 @@
+{
+    "promocodes": [
+        {
+            "id": 1,
+            "code": "20lamplight",
+            "discount": 20,
+            "expiry": "Dec 31, 2023"
+        },
+        {
+            "id": 2,
+            "code": "25%fridaysale",
+            "discount": 25,
+            "expiry": "Dec 31, 2023"
+        },
+        {
+            "id": 3,
+            "code": "10%rooms23",
+            "discount": 10,
+            "expiry": "Dec 31, 2023"
+        }
+    ]
+}
