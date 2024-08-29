@@ -17,18 +17,13 @@
         },
         {
             "id": 4,
-            "name": "office",
+            "name": "Decor",
             "image": "https://george-fx.github.io/unimor_api/assets/categories/04.jpg"
         },
         {
             "id": 5,
-            "name": "decor",
+            "name": "Tables",
             "image": "https://george-fx.github.io/unimor_api/assets/categories/05.jpg"
-        },
-        {
-            "id": 6,
-            "name": "garden",
-            "image": "https://george-fx.github.io/unimor_api/assets/categories/06.jpg"
         }
     ]
 }
